@@ -1,0 +1,841 @@
+Sex,Age,Professions,Education,Living Area,1. Swelling,2. Redness,3. Itching,4. Fever,5. Headache,6. Muscle Pain,7. Tiredness,8. Coughing,9. Diarrhea,10. Nausea and vomiting,11. Breathlessness,12. Joint Pain,13. Fainted,14. Anaphylactic Reaction,15. Tingling,16. Swollen Lymph Nodes,Symptoms time
+Male,51-55 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Male,56-60 years,Medical doctor,Master degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,< 24 hours
+Male,46-50 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,46-50 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,56-60 years,Medical doctor,Master degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,51-55 years,Nurse,Master degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,56-60 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,24-72 hours
+Male,51-55 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,51-55 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,None
+Male,51-55 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,56-60 years,Nurse,Master degree,Outskirt,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,31-35 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Male,36-40 years,Non medical staff,Master degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,46-50 years,Non medical staff,Master degree,Outskirt,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,24-72 hours
+Female,41-45 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,36-40 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Nurse,Master degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,31-35 years,Nurse,Bachelor degree,Outskirt,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,24-72 hours
+Female,51-55 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,46-50 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,36-40 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Non medical staff,Bachelor degree,Outskirt,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,24-72 hours
+Male,41-45 years,Nurse,Master degree,Downtown,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,46-50 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,24-72 hours
+Female,26-30 years,Non medical staff,Bachelor degree,Outskirt,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,< 24 hours
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,51-55 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,< 24 hours
+Female,46-50 years,Midwife,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,46-50 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,51-55 years,Nurse,Bachelor degree,Outskirt,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,51-55 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,24-72 hours
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,> 72 hours
+Female,51-55 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Nurse,Bachelor degree,Outskirt,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,51-55 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,> 60 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Midwife,Bachelor degree,Outskirt,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Midwife,Bachelor degree,Downtown,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,46-50 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,46-50 years,Midwife,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Midwife,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Midwife,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Midwife,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,51-55 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,51-55 years,Medical specialist,Master degree,Downtown,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,24-72 hours
+Male,31-35 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,36-40 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,56-60 years,Medical specialist,Master degree,Downtown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Midwife,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,51-55 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,< 24 hours
+Male,51-55 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,46-50 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,36-40 years,Medical specialist,Master degree,Outskirt,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Non medical staff,Bachelor degree,Downtown,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,< 24 hours
+Female,46-50 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,24-72 hours
+Female,56-60 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,51-55 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Midwife,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,< 24 hours
+Female,36-40 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,51-55 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Nurse,Bachelor degree,Outskirt,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,< 24 hours
+Female,51-55 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,36-40 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Nurse,Bachelor degree,Outskirt,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Outskirt,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,24-72 hours
+Female,31-35 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Non medical staff,Senior high school,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,> 72 hours
+Female,36-40 years,Non medical staff,Bachelor degree,Outskirt,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,31-35 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,51-55 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,51-55 years,Non medical staff,Senior high school,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,46-50 years,Non medical staff,Bachelor degree,Downtown,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,24-72 hours
+Male,41-45 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,51-55 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,46-50 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,56-60 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,51-55 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Nurse,Master degree,Downtown,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Male,26-30 years,Non medical staff,Junior high school,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,51-55 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Medical specialist,Bachelor degree,Downtown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,46-50 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,< 24 hours
+Female,31-35 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Nurse,Master degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Nurse,Bachelor degree,Outskirt,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Female,56-60 years,Midwife,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Non medical staff,Bachelor degree,Outskirt,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,46-50 years,Non medical staff,Master degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,< 20 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Female,41-45 years,Midwife,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Female,20-25 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,24-72 hours
+Female,46-50 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,> 72 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,24-72 hours
+Female,20-25 years,Non medical staff,Bachelor degree,Downtown,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,< 24 hours
+Female,31-35 years,Midwife,Bachelor degree,Downtown,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Male,46-50 years,Non medical staff,Master degree,Downtown,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,< 24 hours
+Female,36-40 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,46-50 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Nurse,Bachelor degree,Outskirt,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Female,20-25 years,Non medical staff,Bachelor degree,Downtown,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,51-55 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,36-40 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,24-72 hours
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,51-55 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,51-55 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,51-55 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,56-60 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,46-50 years,Non medical staff,Bachelor degree,Downtown,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,> 72 hours
+Female,36-40 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Nurse,Bachelor degree,Outskirt,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Non medical staff,Master degree,Outskirt,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,51-55 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Nurse,Bachelor degree,Outskirt,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,< 24 hours
+Male,20-25 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,31-35 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,24-72 hours
+Male,46-50 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,46-50 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,20-25 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,31-35 years,Medical doctor,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,46-50 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,> 72 hours
+Female,46-50 years,Nurse,Master degree,Downtown,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,41-45 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,< 24 hours
+Male,20-25 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,46-50 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,None
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,< 24 hours
+Male,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,41-45 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Midwife,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Male,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Outskirt,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,> 72 hours
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,56-60 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,46-50 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,< 24 hours
+Female,36-40 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Non medical staff,Senior high school,Outskirt,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,24-72 hours
+Female,36-40 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Midwife,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,< 24 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,31-35 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Nurse,Master degree,Outskirt,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,< 24 hours
+Female,26-30 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,None
+Female,51-55 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,None
+Female,56-60 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,20-25 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,24-72 hours
+Male,41-45 years,Non medical staff,Bachelor degree,Downtown,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,46-50 years,Non medical staff,Senior high school,Downtown,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,51-55 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,< 24 hours
+Female,26-30 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,24-72 hours
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,None
+Male,51-55 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,< 24 hours
+Female,56-60 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,46-50 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,41-45 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,41-45 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,51-55 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,51-55 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,24-72 hours
+Female,31-35 years,Midwife,Bachelor degree,Downtown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,24-72 hours
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,46-50 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,> 72 hours
+Male,36-40 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Female,51-55 years,Nurse,Master degree,Downtown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,41-45 years,Non medical staff,Senior high school,Downtown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,36-40 years,Midwife,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Male,51-55 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,31-35 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,20-25 years,Non medical staff,Bachelor degree,Downtown,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,24-72 hours
+Female,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,< 24 hours
+Female,< 20 years,Non medical staff,Senior high school,Downtown,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,< 24 hours
+Female,31-35 years,Nurse,Bachelor degree,Outskirt,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,41-45 years,Nurse,Bachelor degree,Outskirt,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,< 24 hours
+Male,31-35 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,56-60 years,Medical doctor,Master degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Non medical staff,Bachelor degree,Outskirt,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,24-72 hours
+Female,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Nurse,Bachelor degree,Outskirt,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,36-40 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Male,41-45 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,< 24 hours
+Female,41-45 years,Nurse,Bachelor degree,Outskirt,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,< 24 hours
+Female,51-55 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,20-25 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Nurse,Master degree,Outskirt,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Master degree,Downtown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,36-40 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,< 24 hours
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,51-55 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Midwife,Bachelor degree,Outskirt,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,31-35 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,20-25 years,Non medical staff,Bachelor degree,Downtown,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,51-55 years,Nurse,Master degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Non medical staff,Senior high school,Downtown,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Nurse,Bachelor degree,Outskirt,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Nurse,Bachelor degree,Outskirt,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,< 24 hours
+Male,20-25 years,Nurse,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,51-55 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,> 72 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,36-40 years,Non medical staff,Senior high school,Downtown,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,36-40 years,Non medical staff,Senior high school,Downtown,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,< 24 hours
+Female,41-45 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,24-72 hours
+Male,26-30 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,20-25 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Male,41-45 years,Nurse,Master degree,Downtown,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Nurse,Master degree,Outskirt,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,< 24 hours
+Male,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Midwife,Bachelor degree,Downtown,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Male,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,< 24 hours
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Nurse,Master degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,36-40 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,> 72 hours
+Male,26-30 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,24-72 hours
+Female,31-35 years,Midwife,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Nurse,Bachelor degree,Outskirt,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,< 24 hours
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,24-72 hours
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,36-40 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,24-72 hours
+Female,20-25 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,24-72 hours
+Female,46-50 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,20-25 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,31-35 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Non medical staff,Bachelor degree,Outskirt,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Non medical staff,Bachelor degree,Downtown,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Nurse,Master degree,Downtown,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,46-50 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Midwife,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,46-50 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,31-35 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,< 24 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Midwife,Master degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,< 24 hours
+Female,20-25 years,Nurse,Bachelor degree,Outskirt,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,36-40 years,Non medical staff,Bachelor degree,Outskirt,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,46-50 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,24-72 hours
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,None
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Midwife,Bachelor degree,Downtown,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,46-50 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,36-40 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,> 72 hours
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,51-55 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Male,46-50 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,20-25 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Non medical staff,Bachelor degree,Outskirt,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Male,36-40 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,24-72 hours
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Non medical staff,Bachelor degree,Outskirt,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,51-55 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,24-72 hours
+Female,46-50 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,None
+Female,41-45 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,< 24 hours
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Non medical staff,Master degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,51-55 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,20-25 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,36-40 years,Non medical staff,Senior high school,Downtown,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,< 24 hours
+Male,31-35 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Non medical staff,Senior high school,Outskirt,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,None
+Male,26-30 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,31-35 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Master degree,Downtown,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,41-45 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Nurse,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,24-72 hours
+Female,41-45 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Nurse,Bachelor degree,Outskirt,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,51-55 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,56-60 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Non medical staff,Senior high school,Downtown,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,None
+Male,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,46-50 years,Medical specialist,Master degree,Downtown,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,56-60 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,51-55 years,Nurse,Bachelor degree,Outskirt,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,51-55 years,Midwife,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,46-50 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,51-55 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,51-55 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,41-45 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,None
+Male,51-55 years,Medical specialist,Master degree,Downtown,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,24-72 hours
+Female,46-50 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,51-55 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,> 72 hours
+Male,26-30 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,> 72 hours
+Female,20-25 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Female,41-45 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Non medical staff,Junior high school,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Non medical staff,Senior high school,Downtown,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,24-72 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Master degree,Outskirt,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,24-72 hours
+Female,36-40 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Medical specialist,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Medical doctor,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,51-55 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,51-55 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,36-40 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,56-60 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,36-40 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Medical doctor,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,51-55 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,< 24 hours
+Male,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,46-50 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,36-40 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,51-55 years,Non medical staff,Senior high school,Downtown,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,24-72 hours
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,41-45 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Male,20-25 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Medical doctor,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,< 24 hours
+Female,46-50 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,31-35 years,Medical specialist,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Medical specialist,Master degree,Downtown,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,< 24 hours
+Female,26-30 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Midwife,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,46-50 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,< 24 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,> 72 hours
+Female,46-50 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,20-25 years,Non medical staff,Senior high school,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,56-60 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,46-50 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,24-72 hours
+Male,26-30 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,20-25 years,Non medical staff,Bachelor degree,Outskirt,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,46-50 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,46-50 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,51-55 years,Midwife,Bachelor degree,Outskirt,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Midwife,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,51-55 years,Non medical staff,Master degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,51-55 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,51-55 years,Medical specialist,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,56-60 years,Nurse,Senior high school,Outskirt,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,> 72 hours
+Female,26-30 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,56-60 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,56-60 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,< 24 hours
+Female,46-50 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,46-50 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,< 24 hours
+Male,51-55 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,46-50 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,> 72 hours
+Female,51-55 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,46-50 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,20-25 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,< 24 hours
+Male,46-50 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,20-25 years,Non medical staff,Senior high school,Downtown,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,< 24 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Non medical staff,Bachelor degree,Downtown,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Midwife,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,46-50 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Non medical staff,Bachelor degree,Downtown,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,24-72 hours
+Female,51-55 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,46-50 years,Nurse,Master degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,36-40 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,51-55 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,20-25 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,46-50 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,46-50 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,46-50 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,> 72 hours
+Female,20-25 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,36-40 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,26-30 years,Non medical staff,Senior high school,Downtown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,< 20 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,56-60 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,56-60 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,56-60 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,24-72 hours
+Female,36-40 years,Medical specialist,Master degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,51-55 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Medical specialist,Master degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,24-72 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Non medical staff,Bachelor degree,Outskirt,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,46-50 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,51-55 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,36-40 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,None
+Male,36-40 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,46-50 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Non medical staff,Master degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,None
+Female,36-40 years,Nurse,Senior high school,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,51-55 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,51-55 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,46-50 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,46-50 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,< 24 hours
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,51-55 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,46-50 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,46-50 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,51-55 years,Non medical staff,Bachelor degree,Outskirt,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Male,46-50 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Non medical staff,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,20-25 years,Midwife,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,51-55 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,56-60 years,Non medical staff,Senior high school,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Master degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,46-50 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,> 72 hours
+Male,56-60 years,Medical specialist,Bachelor degree,Downtown,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,46-50 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,> 72 hours
+Female,36-40 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,51-55 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Female,41-45 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,46-50 years,Non medical staff,Senior high school,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,51-55 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,46-50 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Male,41-45 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,41-45 years,Nurse,Bachelor degree,Outskirt,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,46-50 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,46-50 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,24-72 hours
+Female,31-35 years,Midwife,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Non medical staff,Senior high school,Downtown,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,24-72 hours
+Female,41-45 years,Nurse,Master degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,36-40 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,36-40 years,Nurse,Bachelor degree,Downtown,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,26-30 years,Nurse,Bachelor degree,Downtown,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,36-40 years,Non medical staff,Master degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,None
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,41-45 years,Nurse,Bachelor degree,Outskirt,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,> 72 hours
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,36-40 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,51-55 years,Medical specialist,Master degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,56-60 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,26-30 years,Medical doctor,Master degree,Downtown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Medical doctor,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Medical specialist,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,> 60 years,Medical doctor,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Medical doctor,Master degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Medical doctor,Bachelor degree,Downtown,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Medical doctor,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,20-25 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,20-25 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,20-25 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,24-72 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Female,36-40 years,Medical doctor,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,51-55 years,Medical specialist,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Medical doctor,Master degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Medical doctor,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,31-35 years,Medical doctor,Master degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Medical doctor,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Medical specialist,Bachelor degree,Outskirt,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Medical doctor,Bachelor degree,Outskirt,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Non medical staff,Bachelor degree,Outskirt,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,24-72 hours
+Male,26-30 years,Medical specialist,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Medical specialist,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Medical doctor,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,46-50 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Medical doctor,Master degree,Downtown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,None
+Male,46-50 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,31-35 years,Nurse,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,> 60 years,Medical specialist,Master degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Medical specialist,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,31-35 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,None
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,None
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,24-72 hours
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,< 24 hours
+Female,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,24-72 hours
+Male,26-30 years,Medical doctor,Bachelor degree,Downtown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,None
