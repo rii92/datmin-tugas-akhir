@@ -1,0 +1,12 @@
+Ahmed Ragab, Mohamed El Koujok, Hakim Ghezzaz, Mouloud Amazouz,
+Chapter 10 - Fault diagnosis in industrial processes based on predictive and descriptive machine learning methods,
+Editor(s): Jingzheng Ren, Weifeng Shen, Yi Man, Lichun Dong,
+Applications of Artificial Intelligence in Process Systems Engineering,
+Elsevier,
+2021,
+Pages 207-254,
+ISBN 9780128210925,
+https://doi.org/10.1016/B978-0-12-821092-5.00002-4.
+(https://www.sciencedirect.com/science/article/pii/B9780128210925000024)
+Abstract: This chapter surveys the widely applied data-driven methodologies suggested in the literature for process monitoring and fault diagnosis from the application point of view. It discusses practical issues that need to be considered when selecting an appropriate data-driven fault diagnosis method for industrial applications. The chapter also presents the main characteristics of FDD methods and categorization diagrams to assist developers in selecting the appropriate methods for diagnosing faults within their specific operational environment. A number of common predictive and descriptive ML techniques have been discussed according to their pros and cons. A literature review was done on the characteristics of these methods, according to a multitude of papers and recent reviews. The chapter also presents a number of methodologies applied to real case studies in industrial plants located in Canada. Finally, the chapter concludes the results and briefly lists some of the lessons learned through these case studies.
+Keywords: Fault detection and diagnosis; Machine learning; Deep learning; Digitalization; Big data; Pattern recognition; Interpretability; Process industries; Pulp and paper industry; Decision support systems
