@@ -1,0 +1,15 @@
+##1. Abstrak sebaiknya ditulis ulang dengan pola: OMKKMasaSolHa,
+- Objek: jelaskan mengapa objek penelitian Covid-19 ini penting
+- Metode: apa metode yang selama ini digunakan untuk klasifikasi lama waktu gejala Covid-19 ini, apakah manual? sehingga perlu teknik machine learning?
+- Kelebihan: apa kelebihan metode yg selama ini ada tadi
+- Kekurangan: apa kekurangan metode tadi sehingga memacu diperlukannya penelitian ini menggunakan KNN,RF,dan SVM
+- Solusi: tawaran solusi dari kita, yaitu menggunakan KNN,RF,dan SVM
+- Hasil: hasil ringkas dari penelitian
+##2. Pendahuluan: sejarah tentang Covid-19 terlalu panjang, bisa dikurangi  dan sebaiknya ditambah untuk penjelasan tentang penelitian lain terkait klasifikasi lama waktu gejala Covid-19
+##3. Akurasi yang masih cukup rendah ini apa masih bisa ditingkatkan?
+##4. Di paper ini ada beberapa typo: covi-19 --> Covid-19, dll. Coba dibaca ulang per kalimat, agar typo-typo pada kata lainnya juga terdeteksi.
+##5. Tambahkan kerangka pikir, seperti contoh yang saya lampirkan di email ini
+##6. Tabel 1, konten rata kiri, tambahkan kolom tipe data, tabel ini boleh dibuat full page, tidak harus mengikuti format teks 2 kolom
+##7. Gambar 1,2,dan 3 karena asalnya dari sumber lain, mesti digambar ulang sendiri dengan sedikit pembedaan, agar tidak termasuk ke plagiarism. Misalnya pewarnaan berbeda, dll. Lalu sumber referensi ditulis dengan format sitasi yang benar dan dimasukkan daftar pustaka. Jadi tidak cukup hanya: medium.com
+##8. Daftar pustaka diperbanyak dari jurnal internasional, minimal jumlah keseluruhan referensi sebaiknya 20.
+9. Jika saran saya sudah diterapkan dan digunakan, silakan masukkan nama saya sebagai penulis kedua.
